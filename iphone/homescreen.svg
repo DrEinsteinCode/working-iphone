@@ -1,0 +1,22 @@
+ <svg class="homescreen" id="homescreenId" width="258" height="383" viewBox="0 0 258 383" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="19" width="64" height="64" rx="14" fill="white"/>
+<g opacity="0.4" filter="url(#filter0_b)">
+<rect y="322" width="258" height="61" fill="white"/>
+</g>
+<rect x="102" width="64" height="64" rx="14" fill="white"/>
+<rect x="185" width="64" height="64" rx="14" fill="white"/>
+<rect x="19" y="112" width="64" height="64" rx="14" fill="white"/>
+<rect x="102" y="112" width="64" height="64" rx="14" fill="white"/>
+<rect x="185" y="112" width="64" height="64" rx="14" fill="white"/>
+<rect x="9" y="326" width="54" height="54" rx="14" fill="white"/>
+<rect x="99" y="326" width="54" height="54" rx="14" fill="white"/>
+<rect x="195" y="326" width="54" height="54" rx="14" fill="white"/>
+<defs>
+<filter id="filter0_b" x="-40" y="282" width="338" height="141" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="20"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+</filter>
+</defs>
+</svg>
